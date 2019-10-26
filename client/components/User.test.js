@@ -6,7 +6,7 @@ import User from './User.jsx'
 const fakeUser = {
   firstName: 'Jean',
   lastName: 'Doe',
-  email: 'fake.user@example.com'
+  email: 'jean.doe@example.com'
 }
 
 describe('User Component', () => {
