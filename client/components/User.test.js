@@ -4,8 +4,8 @@ import User from './User.jsx'
 
 // console.log(shallow)
 const fakeUser = {
-  firstName: 'Fake',
-  lastName: 'User',
+  firstName: 'Jean',
+  lastName: 'Doe',
   email: 'fake.user@example.com'
 }
 
